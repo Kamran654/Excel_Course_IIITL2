@@ -1,4 +1,4 @@
-# Excel_Course_IIITL2
+# Excel_Course_IIITL
 ## DAY 1
 - BASIC KNOWLEDGE ABOUT EXCEL
 - ROW OPRATION
