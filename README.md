@@ -20,4 +20,6 @@
 ![LOCKING](https://github.com/user-attachments/assets/d8faae8b-43fa-4707-a6b5-b5338e5ced7c)
 ## DAY 4
 - PROJECT
-- 
+- ![PROJECT](https://github.com/user-attachments/assets/5b54ab61-a236-4788-8cd6-41843e6c1942)
+- PROJECT ABOUT MY PERSONAL EXPENSES
+-
